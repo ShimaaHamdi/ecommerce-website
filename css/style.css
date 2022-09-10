@@ -151,7 +151,7 @@ button.white {
 }
 
 #hero button {
-    background-image: url(/img/button.png);
+    background-image: url('../img/button.png');
     background-color: transparent;
     color: #086460;
     border: 0;
@@ -352,7 +352,7 @@ button.white {
     justify-content: center;
     align-items: flex-start;
     text-align: center;
-    background-image: url("/img/banner/b17.jpg");
+    background-image: url('../img/banner/b17.jpg');
     min-width: 580px;
     height: 50vh;
     background-size: cover;
@@ -605,7 +605,7 @@ footer .copyright {
 
 /* blog page style */
 #page-header.blog-header {
-    background-image: url('/img/banner/b19.jpg');
+    background-image: url('../img/banner/b19.jpg');
 }
 
 #blog {
@@ -675,7 +675,7 @@ footer .copyright {
 
 /* about page section */
 #page-header.about-header {
-    background-image: url(/img/about/banner.png);
+    background-image: url('../img/about/banner.png');
 }
 
 #about-head {
