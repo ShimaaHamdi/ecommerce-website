@@ -130,7 +130,7 @@ button.white {
 
 /* Hero Start */
 #hero {
-    background-image: url(/img/hero4.png);
+    background-image: url(./img/hero4.png);
     width: 100%;
     height: 90vh;
     background-size: cover;
